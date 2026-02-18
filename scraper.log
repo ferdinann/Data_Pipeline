@@ -1,0 +1,1404 @@
+2026-02-18 11:13:12,361 - INFO - Memulai proses ETL...
+2026-02-18 11:13:12,362 - INFO - Tahap 1: Extract data dari website...
+2026-02-18 11:13:12,362 - INFO - Starting scraping process
+2026-02-18 11:13:14,009 - INFO - Page 1: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59B7592D0>}
+2026-02-18 11:13:14,043 - INFO - Page 1 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:15,437 - INFO - Page 2: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59C7A9430>}
+2026-02-18 11:13:15,447 - INFO - Page 2 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:17,954 - INFO - Page 3: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59C7FD9B0>}
+2026-02-18 11:13:17,972 - INFO - Page 3 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:19,526 - INFO - Page 4: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59C7A9430>}
+2026-02-18 11:13:19,538 - INFO - Page 4 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:20,660 - INFO - Page 5: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59C8A6400>}
+2026-02-18 11:13:20,669 - INFO - Page 5 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:21,854 - INFO - Page 6: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59C902980>}
+2026-02-18 11:13:21,864 - INFO - Page 6 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:23,017 - INFO - Page 7: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59C7A9430>}
+2026-02-18 11:13:23,025 - INFO - Page 7 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:24,513 - INFO - Page 8: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59C902980>}
+2026-02-18 11:13:24,522 - INFO - Page 8 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:25,652 - INFO - Page 9: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CA038A0>}
+2026-02-18 11:13:25,662 - INFO - Page 9 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:27,889 - INFO - Page 10: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59C7FD9B0>}
+2026-02-18 11:13:27,902 - INFO - Page 10 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:29,079 - INFO - Page 11: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59C7A9430>}
+2026-02-18 11:13:29,089 - INFO - Page 11 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:30,272 - INFO - Page 12: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59C7FD9B0>}
+2026-02-18 11:13:30,281 - INFO - Page 12 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:31,488 - INFO - Page 13: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59C7A9430>}
+2026-02-18 11:13:31,499 - INFO - Page 13 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:32,761 - INFO - Page 14: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59C7FD9B0>}
+2026-02-18 11:13:32,772 - INFO - Page 14 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:33,909 - INFO - Page 15: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59C7A9430>}
+2026-02-18 11:13:33,920 - INFO - Page 15 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:35,092 - INFO - Page 16: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59C7FD9B0>}
+2026-02-18 11:13:35,107 - INFO - Page 16 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:36,253 - INFO - Page 17: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59C7A9430>}
+2026-02-18 11:13:36,262 - INFO - Page 17 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:37,579 - INFO - Page 18: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59C902980>}
+2026-02-18 11:13:37,589 - INFO - Page 18 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:38,723 - INFO - Page 19: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD33950>}
+2026-02-18 11:13:38,731 - INFO - Page 19 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:39,975 - INFO - Page 20: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD98670>}
+2026-02-18 11:13:39,985 - INFO - Page 20 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:41,144 - INFO - Page 21: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD98510>}
+2026-02-18 11:13:41,154 - INFO - Page 21 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:42,319 - INFO - Page 22: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD33950>}
+2026-02-18 11:13:42,327 - INFO - Page 22 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:43,480 - INFO - Page 23: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD98670>}
+2026-02-18 11:13:43,496 - INFO - Page 23 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:44,676 - INFO - Page 24: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD98510>}
+2026-02-18 11:13:44,686 - INFO - Page 24 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:45,823 - INFO - Page 25: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD33950>}
+2026-02-18 11:13:45,831 - INFO - Page 25 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:46,960 - INFO - Page 26: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD98670>}
+2026-02-18 11:13:46,971 - INFO - Page 26 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:48,202 - INFO - Page 27: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD98510>}
+2026-02-18 11:13:48,210 - INFO - Page 27 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:49,375 - INFO - Page 28: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD33950>}
+2026-02-18 11:13:49,386 - INFO - Page 28 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:50,567 - INFO - Page 29: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59D11CA90>}
+2026-02-18 11:13:50,576 - INFO - Page 29 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:51,683 - INFO - Page 30: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD33950>}
+2026-02-18 11:13:51,691 - INFO - Page 30 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:53,073 - INFO - Page 31: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59D11CA90>}
+2026-02-18 11:13:53,082 - INFO - Page 31 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:54,221 - INFO - Page 32: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD33950>}
+2026-02-18 11:13:54,229 - INFO - Page 32 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:55,440 - INFO - Page 33: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59D11CA90>}
+2026-02-18 11:13:55,451 - INFO - Page 33 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:57,878 - INFO - Page 34: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD33950>}
+2026-02-18 11:13:57,890 - INFO - Page 34 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:13:59,113 - INFO - Page 35: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59D11CA90>}
+2026-02-18 11:13:59,136 - INFO - Page 35 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:14:00,328 - INFO - Page 36: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD33950>}
+2026-02-18 11:14:00,339 - INFO - Page 36 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:14:01,770 - INFO - Page 37: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59D11CA90>}
+2026-02-18 11:14:01,790 - INFO - Page 37 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:14:03,578 - INFO - Page 38: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD33950>}
+2026-02-18 11:14:03,592 - INFO - Page 38 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:14:05,645 - INFO - Page 39: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59D11CA90>}
+2026-02-18 11:14:05,674 - INFO - Page 39 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:14:07,326 - INFO - Page 40: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD33950>}
+2026-02-18 11:14:07,338 - INFO - Page 40 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:14:09,024 - INFO - Page 41: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59D11CA90>}
+2026-02-18 11:14:09,052 - INFO - Page 41 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:14:10,715 - INFO - Page 42: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD33950>}
+2026-02-18 11:14:10,724 - INFO - Page 42 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:14:12,012 - INFO - Page 43: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59D11CA90>}
+2026-02-18 11:14:12,022 - INFO - Page 43 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:14:13,442 - INFO - Page 44: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD33950>}
+2026-02-18 11:14:13,471 - INFO - Page 44 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:14:15,039 - INFO - Page 45: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59D11CA90>}
+2026-02-18 11:14:15,050 - INFO - Page 45 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:14:16,744 - INFO - Page 46: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD33950>}
+2026-02-18 11:14:16,771 - INFO - Page 46 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:14:18,467 - INFO - Page 47: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59D11CA90>}
+2026-02-18 11:14:18,489 - INFO - Page 47 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:14:20,199 - INFO - Page 48: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD33950>}
+2026-02-18 11:14:20,221 - INFO - Page 48 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:14:21,477 - INFO - Page 49: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59D11CA90>}
+2026-02-18 11:14:21,488 - INFO - Page 49 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:14:22,827 - INFO - Page 50: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001C59CD33950>}
+2026-02-18 11:14:22,838 - INFO - Page 50 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:14:22,839 - INFO - Scraping selesai. Total produk: 2000
+2026-02-18 11:14:22,883 - INFO - Berhasil extract 2000 produk mentah
+2026-02-18 11:14:22,883 - INFO - Tahap 2: Transform & cleaning data...
+2026-02-18 11:14:22,903 - WARNING - DataFrame setelah transform kosong.
+2026-02-18 11:18:37,703 - INFO - Memulai proses ETL...
+2026-02-18 11:18:37,703 - INFO - Tahap 1: Extract data dari website...
+2026-02-18 11:18:37,704 - INFO - Starting scraping process
+2026-02-18 11:18:39,022 - INFO - Page 1: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825E0ED220>}
+2026-02-18 11:18:39,030 - INFO - Page 1 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:40,154 - INFO - Page 2: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F139380>}
+2026-02-18 11:18:40,163 - INFO - Page 2 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:41,415 - INFO - Page 3: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F18D900>}
+2026-02-18 11:18:41,425 - INFO - Page 3 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:42,530 - INFO - Page 4: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F139380>}
+2026-02-18 11:18:42,541 - INFO - Page 4 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:43,698 - INFO - Page 5: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F236350>}
+2026-02-18 11:18:43,711 - INFO - Page 5 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:44,805 - INFO - Page 6: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F2968D0>}
+2026-02-18 11:18:44,823 - INFO - Page 6 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:45,989 - INFO - Page 7: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F139380>}
+2026-02-18 11:18:45,998 - INFO - Page 7 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:47,129 - INFO - Page 8: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F2968D0>}
+2026-02-18 11:18:47,141 - INFO - Page 8 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:48,258 - INFO - Page 9: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F3937F0>}
+2026-02-18 11:18:48,267 - INFO - Page 9 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:49,384 - INFO - Page 10: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F18D900>}
+2026-02-18 11:18:49,394 - INFO - Page 10 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:50,536 - INFO - Page 11: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F139380>}
+2026-02-18 11:18:50,546 - INFO - Page 11 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:51,689 - INFO - Page 12: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F18D900>}
+2026-02-18 11:18:51,697 - INFO - Page 12 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:52,804 - INFO - Page 13: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F139380>}
+2026-02-18 11:18:52,812 - INFO - Page 13 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:53,916 - INFO - Page 14: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F18D900>}
+2026-02-18 11:18:53,926 - INFO - Page 14 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:55,083 - INFO - Page 15: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F139380>}
+2026-02-18 11:18:55,092 - INFO - Page 15 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:56,206 - INFO - Page 16: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F18D900>}
+2026-02-18 11:18:56,215 - INFO - Page 16 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:57,357 - INFO - Page 17: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F139380>}
+2026-02-18 11:18:57,365 - INFO - Page 17 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:58,509 - INFO - Page 18: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F2968D0>}
+2026-02-18 11:18:58,520 - INFO - Page 18 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:18:59,670 - INFO - Page 19: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F6C38A0>}
+2026-02-18 11:18:59,679 - INFO - Page 19 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:01,079 - INFO - Page 20: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F7285C0>}
+2026-02-18 11:19:01,090 - INFO - Page 20 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:02,227 - INFO - Page 21: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F728460>}
+2026-02-18 11:19:02,237 - INFO - Page 21 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:03,391 - INFO - Page 22: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F6C38A0>}
+2026-02-18 11:19:03,401 - INFO - Page 22 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:05,047 - INFO - Page 23: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F7285C0>}
+2026-02-18 11:19:05,062 - INFO - Page 23 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:06,168 - INFO - Page 24: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F728460>}
+2026-02-18 11:19:06,178 - INFO - Page 24 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:07,343 - INFO - Page 25: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F6C38A0>}
+2026-02-18 11:19:07,355 - INFO - Page 25 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:08,554 - INFO - Page 26: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F7285C0>}
+2026-02-18 11:19:08,562 - INFO - Page 26 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:09,679 - INFO - Page 27: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F728460>}
+2026-02-18 11:19:09,698 - INFO - Page 27 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:10,839 - INFO - Page 28: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F6C38A0>}
+2026-02-18 11:19:10,847 - INFO - Page 28 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:12,319 - INFO - Page 29: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825FAAC9E0>}
+2026-02-18 11:19:12,328 - INFO - Page 29 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:13,413 - INFO - Page 30: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F6C38A0>}
+2026-02-18 11:19:13,423 - INFO - Page 30 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:14,546 - INFO - Page 31: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825FAAC9E0>}
+2026-02-18 11:19:14,557 - INFO - Page 31 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:15,923 - INFO - Page 32: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F6C38A0>}
+2026-02-18 11:19:15,932 - INFO - Page 32 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:17,308 - INFO - Page 33: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825FAAC9E0>}
+2026-02-18 11:19:17,318 - INFO - Page 33 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:18,502 - INFO - Page 34: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F6C38A0>}
+2026-02-18 11:19:18,522 - INFO - Page 34 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:19,672 - INFO - Page 35: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825FAAC9E0>}
+2026-02-18 11:19:19,681 - INFO - Page 35 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:20,780 - INFO - Page 36: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F6C38A0>}
+2026-02-18 11:19:20,791 - INFO - Page 36 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:21,896 - INFO - Page 37: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825FAAC9E0>}
+2026-02-18 11:19:21,908 - INFO - Page 37 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:23,077 - INFO - Page 38: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F6C38A0>}
+2026-02-18 11:19:23,088 - INFO - Page 38 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:24,195 - INFO - Page 39: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825FAAC9E0>}
+2026-02-18 11:19:24,204 - INFO - Page 39 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:25,321 - INFO - Page 40: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F6C38A0>}
+2026-02-18 11:19:25,335 - INFO - Page 40 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:26,470 - INFO - Page 41: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825FAAC9E0>}
+2026-02-18 11:19:26,478 - INFO - Page 41 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:27,661 - INFO - Page 42: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F6C38A0>}
+2026-02-18 11:19:27,671 - INFO - Page 42 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:28,876 - INFO - Page 43: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825FAAC9E0>}
+2026-02-18 11:19:28,885 - INFO - Page 43 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:30,042 - INFO - Page 44: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F6C38A0>}
+2026-02-18 11:19:30,053 - INFO - Page 44 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:31,157 - INFO - Page 45: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825FAAC9E0>}
+2026-02-18 11:19:31,167 - INFO - Page 45 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:32,291 - INFO - Page 46: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F6C38A0>}
+2026-02-18 11:19:32,300 - INFO - Page 46 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:33,484 - INFO - Page 47: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825FAAC9E0>}
+2026-02-18 11:19:33,493 - INFO - Page 47 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:34,632 - INFO - Page 48: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F6C38A0>}
+2026-02-18 11:19:34,641 - INFO - Page 48 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:35,720 - INFO - Page 49: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825FAAC9E0>}
+2026-02-18 11:19:35,728 - INFO - Page 49 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:36,906 - INFO - Page 50: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002825F6C38A0>}
+2026-02-18 11:19:36,915 - INFO - Page 50 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:19:36,915 - INFO - Scraping selesai. Total produk: 2000
+2026-02-18 11:19:36,957 - INFO - Berhasil extract 2000 produk mentah
+2026-02-18 11:19:36,958 - INFO - Tahap 2: Transform & cleaning data...
+2026-02-18 11:19:37,025 - INFO - Data bersih: 867 baris
+2026-02-18 11:19:37,026 - INFO - Tahap 3: Load data ke penyimpanan...
+2026-02-18 11:19:37,055 - INFO - Proses ETL selesai.
+2026-02-18 11:26:51,924 - INFO - Memulai proses ETL...
+2026-02-18 11:26:51,924 - INFO - Tahap 1: Extract data dari website...
+2026-02-18 11:26:51,925 - INFO - Starting scraping process
+2026-02-18 11:26:53,320 - INFO - Page 1: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026115AD9220>}
+2026-02-18 11:26:53,330 - INFO - Page 1 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:26:55,558 - INFO - Page 2: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026116B25380>}
+2026-02-18 11:26:55,567 - INFO - Page 2 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:26:56,795 - INFO - Page 3: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026116B7D900>}
+2026-02-18 11:26:56,805 - INFO - Page 3 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:26:57,951 - INFO - Page 4: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026116B25380>}
+2026-02-18 11:26:57,960 - INFO - Page 4 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:26:59,168 - INFO - Page 5: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026116C26350>}
+2026-02-18 11:26:59,183 - INFO - Page 5 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:00,316 - INFO - Page 6: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026116C828D0>}
+2026-02-18 11:27:00,326 - INFO - Page 6 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:01,535 - INFO - Page 7: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026116B25380>}
+2026-02-18 11:27:01,544 - INFO - Page 7 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:02,773 - INFO - Page 8: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026116C828D0>}
+2026-02-18 11:27:02,793 - INFO - Page 8 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:04,074 - INFO - Page 9: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026116D7F7F0>}
+2026-02-18 11:27:04,084 - INFO - Page 9 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:05,335 - INFO - Page 10: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026116B7D900>}
+2026-02-18 11:27:05,343 - INFO - Page 10 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:06,559 - INFO - Page 11: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026116B25380>}
+2026-02-18 11:27:06,569 - INFO - Page 11 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:07,819 - INFO - Page 12: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026116B7D900>}
+2026-02-18 11:27:07,830 - INFO - Page 12 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:09,004 - INFO - Page 13: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026116B25380>}
+2026-02-18 11:27:09,016 - INFO - Page 13 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:10,798 - INFO - Page 14: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026116B7D900>}
+2026-02-18 11:27:10,808 - INFO - Page 14 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:12,264 - INFO - Page 15: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026116B25380>}
+2026-02-18 11:27:12,273 - INFO - Page 15 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:13,418 - INFO - Page 16: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026116B7D900>}
+2026-02-18 11:27:13,429 - INFO - Page 16 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:14,632 - INFO - Page 17: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026116B25380>}
+2026-02-18 11:27:14,641 - INFO - Page 17 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:15,867 - INFO - Page 18: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026116C828D0>}
+2026-02-18 11:27:15,875 - INFO - Page 18 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:17,239 - INFO - Page 19: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261170B38A0>}
+2026-02-18 11:27:17,250 - INFO - Page 19 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:18,535 - INFO - Page 20: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261171185C0>}
+2026-02-18 11:27:18,548 - INFO - Page 20 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:19,734 - INFO - Page 21: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026117118460>}
+2026-02-18 11:27:19,743 - INFO - Page 21 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:20,900 - INFO - Page 22: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261170B38A0>}
+2026-02-18 11:27:20,917 - INFO - Page 22 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:22,032 - INFO - Page 23: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261171185C0>}
+2026-02-18 11:27:22,040 - INFO - Page 23 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:23,157 - INFO - Page 24: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026117118460>}
+2026-02-18 11:27:23,166 - INFO - Page 24 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:24,373 - INFO - Page 25: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261170B38A0>}
+2026-02-18 11:27:24,386 - INFO - Page 25 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:25,576 - INFO - Page 26: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261171185C0>}
+2026-02-18 11:27:25,586 - INFO - Page 26 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:26,748 - INFO - Page 27: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000026117118460>}
+2026-02-18 11:27:26,759 - INFO - Page 27 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:27,986 - INFO - Page 28: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261170B38A0>}
+2026-02-18 11:27:27,995 - INFO - Page 28 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:29,091 - INFO - Page 29: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002611749C9E0>}
+2026-02-18 11:27:29,101 - INFO - Page 29 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:30,280 - INFO - Page 30: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261170B38A0>}
+2026-02-18 11:27:30,288 - INFO - Page 30 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:31,458 - INFO - Page 31: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002611749C9E0>}
+2026-02-18 11:27:31,468 - INFO - Page 31 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:32,655 - INFO - Page 32: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261170B38A0>}
+2026-02-18 11:27:32,665 - INFO - Page 32 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:33,820 - INFO - Page 33: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002611749C9E0>}
+2026-02-18 11:27:33,830 - INFO - Page 33 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:35,028 - INFO - Page 34: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261170B38A0>}
+2026-02-18 11:27:35,040 - INFO - Page 34 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:36,251 - INFO - Page 35: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002611749C9E0>}
+2026-02-18 11:27:36,261 - INFO - Page 35 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:37,642 - INFO - Page 36: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261170B38A0>}
+2026-02-18 11:27:37,653 - INFO - Page 36 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:38,861 - INFO - Page 37: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002611749C9E0>}
+2026-02-18 11:27:38,882 - INFO - Page 37 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:40,080 - INFO - Page 38: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261170B38A0>}
+2026-02-18 11:27:40,090 - INFO - Page 38 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:41,446 - INFO - Page 39: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002611749C9E0>}
+2026-02-18 11:27:41,465 - INFO - Page 39 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:42,661 - INFO - Page 40: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261170B38A0>}
+2026-02-18 11:27:42,669 - INFO - Page 40 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:43,853 - INFO - Page 41: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002611749C9E0>}
+2026-02-18 11:27:43,863 - INFO - Page 41 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:44,991 - INFO - Page 42: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261170B38A0>}
+2026-02-18 11:27:45,000 - INFO - Page 42 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:46,385 - INFO - Page 43: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002611749C9E0>}
+2026-02-18 11:27:46,395 - INFO - Page 43 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:47,572 - INFO - Page 44: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261170B38A0>}
+2026-02-18 11:27:47,584 - INFO - Page 44 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:48,777 - INFO - Page 45: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002611749C9E0>}
+2026-02-18 11:27:48,786 - INFO - Page 45 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:49,951 - INFO - Page 46: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261170B38A0>}
+2026-02-18 11:27:49,964 - INFO - Page 46 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:51,176 - INFO - Page 47: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002611749C9E0>}
+2026-02-18 11:27:51,185 - INFO - Page 47 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:52,493 - INFO - Page 48: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261170B38A0>}
+2026-02-18 11:27:52,504 - INFO - Page 48 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:53,719 - INFO - Page 49: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000002611749C9E0>}
+2026-02-18 11:27:53,728 - INFO - Page 49 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:55,164 - INFO - Page 50: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000261170B38A0>}
+2026-02-18 11:27:55,172 - INFO - Page 50 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:27:55,173 - INFO - Scraping selesai. Total produk: 2000
+2026-02-18 11:27:55,215 - INFO - Berhasil extract 2000 produk mentah
+2026-02-18 11:27:55,216 - INFO - Tahap 2: Transform & cleaning data...
+2026-02-18 11:27:55,255 - INFO - Data bersih: 867 baris
+2026-02-18 11:27:55,256 - INFO - Tahap 3: Load data ke penyimpanan...
+2026-02-18 11:27:55,281 - INFO - Proses ETL selesai.
+2026-02-18 11:37:56,133 - INFO - Memulai proses ETL...
+2026-02-18 11:37:56,134 - INFO - Tahap 1: Extract data dari website...
+2026-02-18 11:37:56,134 - INFO - Starting scraping process
+2026-02-18 11:37:57,523 - INFO - Page 1: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD191B7B60>}
+2026-02-18 11:37:57,536 - INFO - Page 1 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:37:58,977 - INFO - Page 2: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD191FFCC0>}
+2026-02-18 11:37:58,986 - INFO - Page 2 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:00,759 - INFO - Page 3: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD19258300>}
+2026-02-18 11:38:00,771 - INFO - Page 3 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:02,119 - INFO - Page 4: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD191FFCC0>}
+2026-02-18 11:38:02,128 - INFO - Page 4 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:03,365 - INFO - Page 5: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD1930CD50>}
+2026-02-18 11:38:03,375 - INFO - Page 5 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:04,528 - INFO - Page 6: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD193692D0>}
+2026-02-18 11:38:04,538 - INFO - Page 6 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:06,062 - INFO - Page 7: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD191FFCC0>}
+2026-02-18 11:38:06,072 - INFO - Page 7 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:07,208 - INFO - Page 8: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD193692D0>}
+2026-02-18 11:38:07,217 - INFO - Page 8 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:08,485 - INFO - Page 9: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD1946E1F0>}
+2026-02-18 11:38:08,493 - INFO - Page 9 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:09,925 - INFO - Page 10: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD19258300>}
+2026-02-18 11:38:09,935 - INFO - Page 10 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:11,126 - INFO - Page 11: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD191FFCC0>}
+2026-02-18 11:38:11,138 - INFO - Page 11 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:12,349 - INFO - Page 12: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD19258300>}
+2026-02-18 11:38:12,357 - INFO - Page 12 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:13,710 - INFO - Page 13: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD191FFCC0>}
+2026-02-18 11:38:13,719 - INFO - Page 13 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:15,597 - INFO - Page 14: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD19258300>}
+2026-02-18 11:38:15,616 - INFO - Page 14 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:17,043 - INFO - Page 15: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD191FFCC0>}
+2026-02-18 11:38:17,057 - INFO - Page 15 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:18,256 - INFO - Page 16: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD19258300>}
+2026-02-18 11:38:18,267 - INFO - Page 16 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:19,471 - INFO - Page 17: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD191FFCC0>}
+2026-02-18 11:38:19,481 - INFO - Page 17 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:20,727 - INFO - Page 18: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD193692D0>}
+2026-02-18 11:38:20,738 - INFO - Page 18 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:21,964 - INFO - Page 19: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197962A0>}
+2026-02-18 11:38:21,974 - INFO - Page 19 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:23,154 - INFO - Page 20: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197F6F00>}
+2026-02-18 11:38:23,167 - INFO - Page 20 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:24,326 - INFO - Page 21: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197F6DA0>}
+2026-02-18 11:38:24,337 - INFO - Page 21 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:25,461 - INFO - Page 22: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197962A0>}
+2026-02-18 11:38:25,472 - INFO - Page 22 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:26,578 - INFO - Page 23: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197F6F00>}
+2026-02-18 11:38:26,588 - INFO - Page 23 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:28,036 - INFO - Page 24: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197F6DA0>}
+2026-02-18 11:38:28,044 - INFO - Page 24 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:29,222 - INFO - Page 25: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197962A0>}
+2026-02-18 11:38:29,236 - INFO - Page 25 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:30,399 - INFO - Page 26: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197F6F00>}
+2026-02-18 11:38:30,407 - INFO - Page 26 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:31,638 - INFO - Page 27: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197F6DA0>}
+2026-02-18 11:38:31,648 - INFO - Page 27 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:33,107 - INFO - Page 28: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197962A0>}
+2026-02-18 11:38:33,116 - INFO - Page 28 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:34,462 - INFO - Page 29: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD19B77480>}
+2026-02-18 11:38:34,473 - INFO - Page 29 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:35,617 - INFO - Page 30: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197962A0>}
+2026-02-18 11:38:35,626 - INFO - Page 30 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:36,798 - INFO - Page 31: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD19B77480>}
+2026-02-18 11:38:36,806 - INFO - Page 31 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:38,042 - INFO - Page 32: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197962A0>}
+2026-02-18 11:38:38,051 - INFO - Page 32 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:39,552 - INFO - Page 33: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD19B77480>}
+2026-02-18 11:38:39,563 - INFO - Page 33 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:40,714 - INFO - Page 34: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197962A0>}
+2026-02-18 11:38:40,723 - INFO - Page 34 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:42,934 - INFO - Page 35: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD19B77480>}
+2026-02-18 11:38:42,943 - INFO - Page 35 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:44,117 - INFO - Page 36: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197962A0>}
+2026-02-18 11:38:44,128 - INFO - Page 36 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:45,268 - INFO - Page 37: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD19B77480>}
+2026-02-18 11:38:45,277 - INFO - Page 37 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:46,538 - INFO - Page 38: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197962A0>}
+2026-02-18 11:38:46,550 - INFO - Page 38 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:47,781 - INFO - Page 39: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD19B77480>}
+2026-02-18 11:38:47,793 - INFO - Page 39 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:48,935 - INFO - Page 40: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197962A0>}
+2026-02-18 11:38:48,945 - INFO - Page 40 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:50,125 - INFO - Page 41: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD19B77480>}
+2026-02-18 11:38:50,135 - INFO - Page 41 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:51,343 - INFO - Page 42: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197962A0>}
+2026-02-18 11:38:51,353 - INFO - Page 42 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:52,516 - INFO - Page 43: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD19B77480>}
+2026-02-18 11:38:52,526 - INFO - Page 43 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:53,703 - INFO - Page 44: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197962A0>}
+2026-02-18 11:38:53,713 - INFO - Page 44 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:54,961 - INFO - Page 45: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD19B77480>}
+2026-02-18 11:38:54,971 - INFO - Page 45 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:56,085 - INFO - Page 46: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197962A0>}
+2026-02-18 11:38:56,095 - INFO - Page 46 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:57,299 - INFO - Page 47: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD19B77480>}
+2026-02-18 11:38:57,307 - INFO - Page 47 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:38:58,441 - INFO - Page 48: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197962A0>}
+2026-02-18 11:38:58,450 - INFO - Page 48 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:39:00,675 - INFO - Page 49: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD19B77480>}
+2026-02-18 11:39:00,686 - INFO - Page 49 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:39:01,833 - INFO - Page 50: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001FD197962A0>}
+2026-02-18 11:39:01,841 - INFO - Page 50 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:39:01,842 - INFO - Scraping selesai. Total produk: 2000
+2026-02-18 11:39:01,886 - INFO - Berhasil extract 2000 produk mentah
+2026-02-18 11:39:01,887 - INFO - Tahap 2: Transform & cleaning data...
+2026-02-18 11:39:01,921 - INFO - Data bersih: 867 baris
+2026-02-18 11:39:01,922 - INFO - Tahap 3: Load data ke penyimpanan...
+2026-02-18 11:39:01,943 - INFO - Data successfully saved to output.csv
+2026-02-18 11:39:01,951 - INFO - Proses ETL selesai.
+2026-02-18 11:41:05,152 - INFO - [START] Starting ETL Pipeline
+2026-02-18 11:41:05,153 - INFO - [EXTRACT] Starting Extraction Phase
+2026-02-18 11:41:05,154 - INFO - Starting scraping process
+2026-02-18 11:41:06,850 - INFO - Page 1: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD69A350>}
+2026-02-18 11:41:06,863 - INFO - Page 1 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:08,051 - INFO - Page 2: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD6FE560>}
+2026-02-18 11:41:08,062 - INFO - Page 2 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:09,228 - INFO - Page 3: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD752AE0>}
+2026-02-18 11:41:09,240 - INFO - Page 3 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:10,334 - INFO - Page 4: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD69A400>}
+2026-02-18 11:41:10,349 - INFO - Page 4 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:11,860 - INFO - Page 5: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD7F3530>}
+2026-02-18 11:41:11,873 - INFO - Page 5 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:13,502 - INFO - Page 6: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD84FAB0>}
+2026-02-18 11:41:13,516 - INFO - Page 6 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:14,846 - INFO - Page 7: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD69A400>}
+2026-02-18 11:41:14,858 - INFO - Page 7 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:16,280 - INFO - Page 8: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD84FAB0>}
+2026-02-18 11:41:16,294 - INFO - Page 8 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:17,556 - INFO - Page 9: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD968A90>}
+2026-02-18 11:41:17,565 - INFO - Page 9 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:19,003 - INFO - Page 10: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD752AE0>}
+2026-02-18 11:41:19,018 - INFO - Page 10 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:20,300 - INFO - Page 11: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD69A400>}
+2026-02-18 11:41:20,316 - INFO - Page 11 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:22,007 - INFO - Page 12: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD752AE0>}
+2026-02-18 11:41:22,026 - INFO - Page 12 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:23,399 - INFO - Page 13: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD69A400>}
+2026-02-18 11:41:23,411 - INFO - Page 13 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:24,826 - INFO - Page 14: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD752AE0>}
+2026-02-18 11:41:24,842 - INFO - Page 14 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:26,416 - INFO - Page 15: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD69A400>}
+2026-02-18 11:41:26,428 - INFO - Page 15 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:27,718 - INFO - Page 16: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD752AE0>}
+2026-02-18 11:41:27,728 - INFO - Page 16 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:28,962 - INFO - Page 17: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD69A400>}
+2026-02-18 11:41:28,971 - INFO - Page 17 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:30,146 - INFO - Page 18: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AD84FAB0>}
+2026-02-18 11:41:30,159 - INFO - Page 18 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:31,384 - INFO - Page 19: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADC8CB40>}
+2026-02-18 11:41:31,397 - INFO - Page 19 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:32,673 - INFO - Page 20: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADCE57A0>}
+2026-02-18 11:41:32,685 - INFO - Page 20 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:33,950 - INFO - Page 21: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADCE5640>}
+2026-02-18 11:41:33,960 - INFO - Page 21 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:35,117 - INFO - Page 22: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADC8CB40>}
+2026-02-18 11:41:35,129 - INFO - Page 22 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:36,323 - INFO - Page 23: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADCE57A0>}
+2026-02-18 11:41:36,332 - INFO - Page 23 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:37,769 - INFO - Page 24: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADCE5640>}
+2026-02-18 11:41:37,796 - INFO - Page 24 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:39,977 - INFO - Page 25: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADC8CB40>}
+2026-02-18 11:41:40,031 - INFO - Page 25 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:41,736 - INFO - Page 26: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADCE57A0>}
+2026-02-18 11:41:41,745 - INFO - Page 26 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:43,025 - INFO - Page 27: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADCE5640>}
+2026-02-18 11:41:43,040 - INFO - Page 27 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:45,160 - INFO - Page 28: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADC8CB40>}
+2026-02-18 11:41:45,168 - INFO - Page 28 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:46,442 - INFO - Page 29: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AE065D20>}
+2026-02-18 11:41:46,451 - INFO - Page 29 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:47,682 - INFO - Page 30: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADC8CB40>}
+2026-02-18 11:41:47,693 - INFO - Page 30 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:48,805 - INFO - Page 31: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AE065D20>}
+2026-02-18 11:41:48,813 - INFO - Page 31 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:50,268 - INFO - Page 32: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADC8CB40>}
+2026-02-18 11:41:50,280 - INFO - Page 32 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:51,565 - INFO - Page 33: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AE065D20>}
+2026-02-18 11:41:51,576 - INFO - Page 33 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:53,063 - INFO - Page 34: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADC8CB40>}
+2026-02-18 11:41:53,075 - INFO - Page 34 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:54,322 - INFO - Page 35: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AE065D20>}
+2026-02-18 11:41:54,331 - INFO - Page 35 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:55,605 - INFO - Page 36: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADC8CB40>}
+2026-02-18 11:41:55,616 - INFO - Page 36 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:57,734 - INFO - Page 37: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AE065D20>}
+2026-02-18 11:41:57,744 - INFO - Page 37 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:41:58,931 - INFO - Page 38: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADC8CB40>}
+2026-02-18 11:41:58,941 - INFO - Page 38 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:42:00,018 - INFO - Page 39: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AE065D20>}
+2026-02-18 11:42:00,030 - INFO - Page 39 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:42:01,179 - INFO - Page 40: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADC8CB40>}
+2026-02-18 11:42:01,192 - INFO - Page 40 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:42:02,388 - INFO - Page 41: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AE065D20>}
+2026-02-18 11:42:02,397 - INFO - Page 41 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:42:03,519 - INFO - Page 42: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADC8CB40>}
+2026-02-18 11:42:03,528 - INFO - Page 42 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:42:04,650 - INFO - Page 43: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AE065D20>}
+2026-02-18 11:42:04,660 - INFO - Page 43 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:42:06,276 - INFO - Page 44: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADC8CB40>}
+2026-02-18 11:42:06,288 - INFO - Page 44 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:42:07,435 - INFO - Page 45: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AE065D20>}
+2026-02-18 11:42:07,444 - INFO - Page 45 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:42:08,547 - INFO - Page 46: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADC8CB40>}
+2026-02-18 11:42:08,560 - INFO - Page 46 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:42:10,655 - INFO - Page 47: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AE065D20>}
+2026-02-18 11:42:10,663 - INFO - Page 47 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:42:11,778 - INFO - Page 48: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADC8CB40>}
+2026-02-18 11:42:11,790 - INFO - Page 48 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:42:12,907 - INFO - Page 49: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3AE065D20>}
+2026-02-18 11:42:12,915 - INFO - Page 49 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:42:14,025 - INFO - Page 50: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001E3ADC8CB40>}
+2026-02-18 11:42:14,034 - INFO - Page 50 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:42:14,035 - INFO - Scraping selesai. Total produk: 2000
+2026-02-18 11:42:14,082 - INFO - [EXTRACT] Successfully extracted 2000 items
+2026-02-18 11:42:14,082 - INFO - [TRANSFORM] Starting Transformation Phase
+2026-02-18 11:42:14,115 - INFO - [TRANSFORM] Transformed 867 records
+2026-02-18 11:42:14,116 - INFO - [LOAD] Saving to CSV
+2026-02-18 11:42:14,138 - INFO - Data successfully saved to products.csv
+2026-02-18 11:42:14,140 - INFO - [CSV] Data successfully saved to output.csv
+2026-02-18 11:42:14,140 - INFO - [LOAD] Saving to PostgreSQL
+2026-02-18 11:42:14,142 - ERROR - Database error: Could not parse SQLAlchemy URL from given URL string
+2026-02-18 11:42:14,143 - ERROR - [POSTGRESQL] Failed to save data to PostgreSQL
+2026-02-18 11:42:14,143 - INFO - [LOAD] Saving to Google Sheets
+2026-02-18 11:42:14,144 - ERROR - Failed to upload to Google Sheets: [Errno 2] No such file or directory: 'google-sheets-api.json'
+2026-02-18 11:42:14,145 - ERROR - [GSHEET] Failed to upload to Google Sheets
+2026-02-18 11:42:14,145 - INFO - [DONE] ETL Pipeline completed in 68.99 seconds
+2026-02-18 11:44:01,268 - INFO - [START] Starting ETL Pipeline
+2026-02-18 11:44:01,269 - INFO - [EXTRACT] Starting Extraction Phase
+2026-02-18 11:44:01,269 - INFO - Starting scraping process
+2026-02-18 11:44:02,558 - INFO - Page 1: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F7749A350>}
+2026-02-18 11:44:02,569 - INFO - Page 1 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:03,733 - INFO - Page 2: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F774FE560>}
+2026-02-18 11:44:03,741 - INFO - Page 2 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:04,950 - INFO - Page 3: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77552AE0>}
+2026-02-18 11:44:04,958 - INFO - Page 3 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:06,108 - INFO - Page 4: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F7749A400>}
+2026-02-18 11:44:06,117 - INFO - Page 4 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:07,340 - INFO - Page 5: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F775EF530>}
+2026-02-18 11:44:07,349 - INFO - Page 5 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:08,493 - INFO - Page 6: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F7764BAB0>}
+2026-02-18 11:44:08,505 - INFO - Page 6 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:09,772 - INFO - Page 7: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F7749A400>}
+2026-02-18 11:44:09,782 - INFO - Page 7 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:10,924 - INFO - Page 8: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F7764BAB0>}
+2026-02-18 11:44:10,935 - INFO - Page 8 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:12,130 - INFO - Page 9: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77764A90>}
+2026-02-18 11:44:12,141 - INFO - Page 9 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:13,269 - INFO - Page 10: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77552AE0>}
+2026-02-18 11:44:13,277 - INFO - Page 10 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:14,458 - INFO - Page 11: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F7749A400>}
+2026-02-18 11:44:14,469 - INFO - Page 11 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:15,584 - INFO - Page 12: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77552AE0>}
+2026-02-18 11:44:15,592 - INFO - Page 12 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:16,801 - INFO - Page 13: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F7749A400>}
+2026-02-18 11:44:16,809 - INFO - Page 13 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:17,968 - INFO - Page 14: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77552AE0>}
+2026-02-18 11:44:17,988 - INFO - Page 14 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:19,155 - INFO - Page 15: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F7749A400>}
+2026-02-18 11:44:19,168 - INFO - Page 15 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:20,333 - INFO - Page 16: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77552AE0>}
+2026-02-18 11:44:20,343 - INFO - Page 16 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:21,535 - INFO - Page 17: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F7749A400>}
+2026-02-18 11:44:21,543 - INFO - Page 17 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:22,932 - INFO - Page 18: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F7764BAB0>}
+2026-02-18 11:44:22,940 - INFO - Page 18 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:24,120 - INFO - Page 19: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77A88B40>}
+2026-02-18 11:44:24,130 - INFO - Page 19 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:25,376 - INFO - Page 20: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77AE17A0>}
+2026-02-18 11:44:25,386 - INFO - Page 20 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:26,508 - INFO - Page 21: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77AE1640>}
+2026-02-18 11:44:26,517 - INFO - Page 21 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:27,716 - INFO - Page 22: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77A88B40>}
+2026-02-18 11:44:27,725 - INFO - Page 22 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:28,868 - INFO - Page 23: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77AE17A0>}
+2026-02-18 11:44:28,876 - INFO - Page 23 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:30,051 - INFO - Page 24: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77AE1640>}
+2026-02-18 11:44:30,059 - INFO - Page 24 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:31,217 - INFO - Page 25: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77A88B40>}
+2026-02-18 11:44:31,231 - INFO - Page 25 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:32,456 - INFO - Page 26: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77AE17A0>}
+2026-02-18 11:44:32,466 - INFO - Page 26 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:33,714 - INFO - Page 27: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77AE1640>}
+2026-02-18 11:44:33,724 - INFO - Page 27 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:34,861 - INFO - Page 28: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77A88B40>}
+2026-02-18 11:44:34,871 - INFO - Page 28 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:36,048 - INFO - Page 29: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77E61D20>}
+2026-02-18 11:44:36,057 - INFO - Page 29 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:37,237 - INFO - Page 30: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77A88B40>}
+2026-02-18 11:44:37,247 - INFO - Page 30 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:38,539 - INFO - Page 31: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77E61D20>}
+2026-02-18 11:44:38,549 - INFO - Page 31 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:39,722 - INFO - Page 32: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77A88B40>}
+2026-02-18 11:44:39,734 - INFO - Page 32 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:41,173 - INFO - Page 33: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77E61D20>}
+2026-02-18 11:44:41,183 - INFO - Page 33 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:42,322 - INFO - Page 34: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77A88B40>}
+2026-02-18 11:44:42,335 - INFO - Page 34 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:43,571 - INFO - Page 35: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77E61D20>}
+2026-02-18 11:44:43,582 - INFO - Page 35 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:44,819 - INFO - Page 36: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77A88B40>}
+2026-02-18 11:44:44,827 - INFO - Page 36 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:46,018 - INFO - Page 37: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77E61D20>}
+2026-02-18 11:44:46,026 - INFO - Page 37 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:47,205 - INFO - Page 38: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77A88B40>}
+2026-02-18 11:44:47,222 - INFO - Page 38 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:48,453 - INFO - Page 39: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77E61D20>}
+2026-02-18 11:44:48,464 - INFO - Page 39 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:49,647 - INFO - Page 40: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77A88B40>}
+2026-02-18 11:44:49,655 - INFO - Page 40 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:50,799 - INFO - Page 41: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77E61D20>}
+2026-02-18 11:44:50,807 - INFO - Page 41 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:52,068 - INFO - Page 42: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77A88B40>}
+2026-02-18 11:44:52,076 - INFO - Page 42 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:53,236 - INFO - Page 43: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77E61D20>}
+2026-02-18 11:44:53,246 - INFO - Page 43 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:54,440 - INFO - Page 44: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77A88B40>}
+2026-02-18 11:44:54,449 - INFO - Page 44 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:55,651 - INFO - Page 45: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77E61D20>}
+2026-02-18 11:44:55,660 - INFO - Page 45 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:56,904 - INFO - Page 46: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77A88B40>}
+2026-02-18 11:44:56,916 - INFO - Page 46 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:58,080 - INFO - Page 47: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77E61D20>}
+2026-02-18 11:44:58,088 - INFO - Page 47 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:44:59,274 - INFO - Page 48: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77A88B40>}
+2026-02-18 11:44:59,285 - INFO - Page 48 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:45:00,482 - INFO - Page 49: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77E61D20>}
+2026-02-18 11:45:00,491 - INFO - Page 49 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:45:01,812 - INFO - Page 50: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015F77A88B40>}
+2026-02-18 11:45:01,820 - INFO - Page 50 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:45:01,820 - INFO - Scraping selesai. Total produk: 2000
+2026-02-18 11:45:01,864 - INFO - [EXTRACT] Successfully extracted 2000 items
+2026-02-18 11:45:01,865 - INFO - [TRANSFORM] Starting Transformation Phase
+2026-02-18 11:45:01,898 - INFO - [TRANSFORM] Transformed 867 records
+2026-02-18 11:45:01,898 - INFO - [LOAD] Saving to CSV
+2026-02-18 11:45:01,918 - INFO - Data successfully saved to products.csv
+2026-02-18 11:45:01,919 - INFO - [CSV] Data successfully saved to output.csv
+2026-02-18 11:45:01,919 - INFO - [LOAD] Saving to PostgreSQL
+2026-02-18 11:45:01,921 - ERROR - Database error: Could not parse SQLAlchemy URL from given URL string
+2026-02-18 11:45:01,922 - ERROR - [POSTGRESQL] Failed to save data to PostgreSQL
+2026-02-18 11:45:01,922 - INFO - [LOAD] Saving to Google Sheets
+2026-02-18 11:45:01,923 - ERROR - Failed to upload to Google Sheets: [Errno 2] No such file or directory: 'google-sheets-api.json'
+2026-02-18 11:45:01,924 - ERROR - [GSHEET] Failed to upload to Google Sheets
+2026-02-18 11:45:01,924 - INFO - [DONE] ETL Pipeline completed in 60.66 seconds
+2026-02-18 11:47:23,412 - INFO - [START] Starting ETL Pipeline
+2026-02-18 11:47:23,412 - INFO - [EXTRACT] Starting Extraction Phase
+2026-02-18 11:47:23,413 - INFO - Starting scraping process
+2026-02-18 11:47:24,768 - INFO - Page 1: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF830A350>}
+2026-02-18 11:47:24,778 - INFO - Page 1 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:25,930 - INFO - Page 2: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF836E560>}
+2026-02-18 11:47:25,940 - INFO - Page 2 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:27,166 - INFO - Page 3: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF83C2AE0>}
+2026-02-18 11:47:27,178 - INFO - Page 3 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:28,302 - INFO - Page 4: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF830A400>}
+2026-02-18 11:47:28,312 - INFO - Page 4 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:29,498 - INFO - Page 5: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF845F530>}
+2026-02-18 11:47:29,510 - INFO - Page 5 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:30,741 - INFO - Page 6: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF84BBAB0>}
+2026-02-18 11:47:30,749 - INFO - Page 6 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:32,010 - INFO - Page 7: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF830A400>}
+2026-02-18 11:47:32,021 - INFO - Page 7 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:33,652 - INFO - Page 8: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF84BBAB0>}
+2026-02-18 11:47:33,661 - INFO - Page 8 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:34,830 - INFO - Page 9: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF85D8A90>}
+2026-02-18 11:47:34,842 - INFO - Page 9 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:36,176 - INFO - Page 10: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF83C2AE0>}
+2026-02-18 11:47:36,185 - INFO - Page 10 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:37,401 - INFO - Page 11: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF830A400>}
+2026-02-18 11:47:37,413 - INFO - Page 11 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:38,574 - INFO - Page 12: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF83C2AE0>}
+2026-02-18 11:47:38,583 - INFO - Page 12 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:39,893 - INFO - Page 13: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF830A400>}
+2026-02-18 11:47:39,902 - INFO - Page 13 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:41,132 - INFO - Page 14: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF83C2AE0>}
+2026-02-18 11:47:41,143 - INFO - Page 14 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:42,333 - INFO - Page 15: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF830A400>}
+2026-02-18 11:47:42,353 - INFO - Page 15 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:43,493 - INFO - Page 16: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF83C2AE0>}
+2026-02-18 11:47:43,504 - INFO - Page 16 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:44,685 - INFO - Page 17: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF830A400>}
+2026-02-18 11:47:44,698 - INFO - Page 17 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:45,905 - INFO - Page 18: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF84BBAB0>}
+2026-02-18 11:47:45,915 - INFO - Page 18 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:47,133 - INFO - Page 19: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF88F8B40>}
+2026-02-18 11:47:47,143 - INFO - Page 19 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:48,277 - INFO - Page 20: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF89557A0>}
+2026-02-18 11:47:48,287 - INFO - Page 20 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:49,497 - INFO - Page 21: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF8955640>}
+2026-02-18 11:47:49,509 - INFO - Page 21 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:50,698 - INFO - Page 22: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF88F8B40>}
+2026-02-18 11:47:50,710 - INFO - Page 22 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:52,012 - INFO - Page 23: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF89557A0>}
+2026-02-18 11:47:52,023 - INFO - Page 23 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:53,234 - INFO - Page 24: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF8955640>}
+2026-02-18 11:47:53,245 - INFO - Page 24 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:54,493 - INFO - Page 25: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF88F8B40>}
+2026-02-18 11:47:54,504 - INFO - Page 25 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:55,666 - INFO - Page 26: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF89557A0>}
+2026-02-18 11:47:55,679 - INFO - Page 26 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:56,901 - INFO - Page 27: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF8955640>}
+2026-02-18 11:47:56,911 - INFO - Page 27 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:58,101 - INFO - Page 28: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF88F8B40>}
+2026-02-18 11:47:58,116 - INFO - Page 28 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:47:59,257 - INFO - Page 29: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF8CD5D20>}
+2026-02-18 11:47:59,265 - INFO - Page 29 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:00,453 - INFO - Page 30: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF88F8B40>}
+2026-02-18 11:48:00,463 - INFO - Page 30 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:01,727 - INFO - Page 31: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF8CD5D20>}
+2026-02-18 11:48:01,738 - INFO - Page 31 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:02,908 - INFO - Page 32: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF88F8B40>}
+2026-02-18 11:48:02,917 - INFO - Page 32 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:04,166 - INFO - Page 33: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF8CD5D20>}
+2026-02-18 11:48:04,177 - INFO - Page 33 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:05,412 - INFO - Page 34: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF88F8B40>}
+2026-02-18 11:48:05,424 - INFO - Page 34 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:06,976 - INFO - Page 35: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF8CD5D20>}
+2026-02-18 11:48:06,996 - INFO - Page 35 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:08,173 - INFO - Page 36: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF88F8B40>}
+2026-02-18 11:48:08,182 - INFO - Page 36 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:09,337 - INFO - Page 37: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF8CD5D20>}
+2026-02-18 11:48:09,349 - INFO - Page 37 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:10,577 - INFO - Page 38: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF88F8B40>}
+2026-02-18 11:48:10,586 - INFO - Page 38 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:11,733 - INFO - Page 39: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF8CD5D20>}
+2026-02-18 11:48:11,744 - INFO - Page 39 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:12,897 - INFO - Page 40: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF88F8B40>}
+2026-02-18 11:48:12,910 - INFO - Page 40 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:14,087 - INFO - Page 41: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF8CD5D20>}
+2026-02-18 11:48:14,099 - INFO - Page 41 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:15,255 - INFO - Page 42: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF88F8B40>}
+2026-02-18 11:48:15,264 - INFO - Page 42 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:16,431 - INFO - Page 43: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF8CD5D20>}
+2026-02-18 11:48:16,443 - INFO - Page 43 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:17,613 - INFO - Page 44: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF88F8B40>}
+2026-02-18 11:48:17,623 - INFO - Page 44 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:18,840 - INFO - Page 45: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF8CD5D20>}
+2026-02-18 11:48:18,853 - INFO - Page 45 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:20,055 - INFO - Page 46: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF88F8B40>}
+2026-02-18 11:48:20,067 - INFO - Page 46 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:21,294 - INFO - Page 47: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF8CD5D20>}
+2026-02-18 11:48:21,308 - INFO - Page 47 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:22,641 - INFO - Page 48: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF88F8B40>}
+2026-02-18 11:48:22,650 - INFO - Page 48 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:23,916 - INFO - Page 49: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF8CD5D20>}
+2026-02-18 11:48:23,928 - INFO - Page 49 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:25,205 - INFO - Page 50: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000019AF88F8B40>}
+2026-02-18 11:48:25,213 - INFO - Page 50 berhasil: 40 produk valid dari 42 item
+2026-02-18 11:48:25,214 - INFO - Scraping selesai. Total produk: 2000
+2026-02-18 11:48:25,258 - INFO - [EXTRACT] Successfully extracted 2000 items
+2026-02-18 11:48:25,259 - INFO - [TRANSFORM] Starting Transformation Phase
+2026-02-18 11:48:25,292 - INFO - [TRANSFORM] Transformed 867 records
+2026-02-18 11:48:25,293 - INFO - [LOAD] Saving to CSV
+2026-02-18 11:48:25,313 - INFO - Data successfully saved to products.csv
+2026-02-18 11:48:25,314 - INFO - [CSV] Data successfully saved to output.csv
+2026-02-18 11:48:25,315 - INFO - [LOAD] Saving to PostgreSQL
+2026-02-18 11:48:25,316 - ERROR - Database error: Could not parse SQLAlchemy URL from given URL string
+2026-02-18 11:48:25,317 - ERROR - [POSTGRESQL] Failed to save data to PostgreSQL
+2026-02-18 11:48:25,319 - INFO - [LOAD] Saving to Google Sheets
+2026-02-18 11:48:25,381 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-18 11:48:29,198 - WARNING - Encountered 403 Forbidden with reason "PERMISSION_DENIED"
+2026-02-18 11:48:29,199 - ERROR - Failed to upload to Google Sheets: <HttpError 403 when requesting https://sheets.googleapis.com/v4/spreadsheets/1jnZOc4bzpWzbL-MSA0aH9r07cZ7akpKXBzAl7M4qvWI/values/Sheet1%21A1?valueInputOption=RAW&alt=json returned "The caller does not have permission". Details: "The caller does not have permission">
+2026-02-18 11:48:29,205 - ERROR - [GSHEET] Failed to upload to Google Sheets
+2026-02-18 11:48:29,207 - INFO - [DONE] ETL Pipeline completed in 65.79 seconds
+2026-02-18 12:04:57,757 - INFO - [START] Starting ETL Pipeline
+2026-02-18 12:04:57,758 - INFO - [EXTRACT] Starting Extraction Phase
+2026-02-18 12:04:57,759 - INFO - Starting scraping process
+2026-02-18 12:04:59,347 - INFO - Page 1: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACBFF3E350>}
+2026-02-18 12:04:59,360 - INFO - Page 1 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:00,587 - INFO - Page 2: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACBFFA2560>}
+2026-02-18 12:05:00,599 - INFO - Page 2 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:01,852 - INFO - Page 3: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACBFFF6AE0>}
+2026-02-18 12:05:01,864 - INFO - Page 3 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:03,086 - INFO - Page 4: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACBFF3E400>}
+2026-02-18 12:05:03,099 - INFO - Page 4 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:04,365 - INFO - Page 5: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC0093530>}
+2026-02-18 12:05:04,377 - INFO - Page 5 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:05,614 - INFO - Page 6: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC00EFAB0>}
+2026-02-18 12:05:05,635 - INFO - Page 6 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:06,957 - INFO - Page 7: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACBFF3E400>}
+2026-02-18 12:05:06,967 - INFO - Page 7 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:08,352 - INFO - Page 8: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC00EFAB0>}
+2026-02-18 12:05:08,364 - INFO - Page 8 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:09,672 - INFO - Page 9: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC0208A90>}
+2026-02-18 12:05:09,681 - INFO - Page 9 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:10,930 - INFO - Page 10: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACBFFF6AE0>}
+2026-02-18 12:05:10,941 - INFO - Page 10 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:12,127 - INFO - Page 11: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACBFF3E400>}
+2026-02-18 12:05:12,136 - INFO - Page 11 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:13,598 - INFO - Page 12: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACBFFF6AE0>}
+2026-02-18 12:05:13,609 - INFO - Page 12 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:14,872 - INFO - Page 13: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACBFF3E400>}
+2026-02-18 12:05:14,882 - INFO - Page 13 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:16,127 - INFO - Page 14: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACBFFF6AE0>}
+2026-02-18 12:05:16,142 - INFO - Page 14 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:17,398 - INFO - Page 15: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACBFF3E400>}
+2026-02-18 12:05:17,408 - INFO - Page 15 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:18,711 - INFO - Page 16: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACBFFF6AE0>}
+2026-02-18 12:05:18,719 - INFO - Page 16 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:19,938 - INFO - Page 17: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACBFF3E400>}
+2026-02-18 12:05:19,946 - INFO - Page 17 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:21,146 - INFO - Page 18: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC00EFAB0>}
+2026-02-18 12:05:21,156 - INFO - Page 18 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:22,354 - INFO - Page 19: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC052CB40>}
+2026-02-18 12:05:22,364 - INFO - Page 19 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:23,558 - INFO - Page 20: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC05857A0>}
+2026-02-18 12:05:23,567 - INFO - Page 20 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:25,099 - INFO - Page 21: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC0585640>}
+2026-02-18 12:05:25,119 - INFO - Page 21 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:26,674 - INFO - Page 22: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC052CB40>}
+2026-02-18 12:05:26,689 - INFO - Page 22 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:28,026 - INFO - Page 23: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC05857A0>}
+2026-02-18 12:05:28,038 - INFO - Page 23 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:29,473 - INFO - Page 24: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC0585640>}
+2026-02-18 12:05:29,497 - INFO - Page 24 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:32,190 - INFO - Page 25: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC052CB40>}
+2026-02-18 12:05:32,201 - INFO - Page 25 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:33,625 - INFO - Page 26: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC05857A0>}
+2026-02-18 12:05:33,638 - INFO - Page 26 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:34,903 - INFO - Page 27: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC0585640>}
+2026-02-18 12:05:34,926 - INFO - Page 27 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:36,651 - INFO - Page 28: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC052CB40>}
+2026-02-18 12:05:36,664 - INFO - Page 28 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:38,157 - INFO - Page 29: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC0905D20>}
+2026-02-18 12:05:38,175 - INFO - Page 29 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:39,592 - INFO - Page 30: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC052CB40>}
+2026-02-18 12:05:39,603 - INFO - Page 30 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:40,877 - INFO - Page 31: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC0905D20>}
+2026-02-18 12:05:40,885 - INFO - Page 31 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:42,073 - INFO - Page 32: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC052CB40>}
+2026-02-18 12:05:42,085 - INFO - Page 32 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:43,378 - INFO - Page 33: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC0905D20>}
+2026-02-18 12:05:43,393 - INFO - Page 33 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:44,999 - INFO - Page 34: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC052CB40>}
+2026-02-18 12:05:45,016 - INFO - Page 34 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:46,425 - INFO - Page 35: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC0905D20>}
+2026-02-18 12:05:46,434 - INFO - Page 35 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:48,998 - INFO - Page 36: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC052CB40>}
+2026-02-18 12:05:49,011 - INFO - Page 36 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:50,755 - INFO - Page 37: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC0905D20>}
+2026-02-18 12:05:50,767 - INFO - Page 37 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:52,283 - INFO - Page 38: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC052CB40>}
+2026-02-18 12:05:52,295 - INFO - Page 38 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:53,425 - INFO - Page 39: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC0905D20>}
+2026-02-18 12:05:53,433 - INFO - Page 39 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:54,637 - INFO - Page 40: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC052CB40>}
+2026-02-18 12:05:54,665 - INFO - Page 40 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:05:58,786 - INFO - Page 41: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC0905D20>}
+2026-02-18 12:05:58,823 - INFO - Page 41 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:06:00,109 - INFO - Page 42: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC052CB40>}
+2026-02-18 12:06:00,120 - INFO - Page 42 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:06:01,466 - INFO - Page 43: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC0905D20>}
+2026-02-18 12:06:01,477 - INFO - Page 43 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:06:02,803 - INFO - Page 44: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC052CB40>}
+2026-02-18 12:06:02,815 - INFO - Page 44 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:06:04,093 - INFO - Page 45: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC0905D20>}
+2026-02-18 12:06:04,102 - INFO - Page 45 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:06:05,337 - INFO - Page 46: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC052CB40>}
+2026-02-18 12:06:05,346 - INFO - Page 46 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:06:06,634 - INFO - Page 47: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC0905D20>}
+2026-02-18 12:06:06,644 - INFO - Page 47 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:06:07,900 - INFO - Page 48: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC052CB40>}
+2026-02-18 12:06:07,923 - INFO - Page 48 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:06:09,291 - INFO - Page 49: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC0905D20>}
+2026-02-18 12:06:09,303 - INFO - Page 49 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:06:10,764 - INFO - Page 50: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001ACC052CB40>}
+2026-02-18 12:06:10,778 - INFO - Page 50 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:06:10,779 - INFO - Scraping selesai. Total produk: 2000
+2026-02-18 12:06:10,829 - INFO - [EXTRACT] Successfully extracted 2000 items
+2026-02-18 12:06:10,830 - INFO - [TRANSFORM] Starting Transformation Phase
+2026-02-18 12:06:10,913 - INFO - [TRANSFORM] Transformed 867 records
+2026-02-18 12:06:10,963 - INFO - [LOAD] Saving to CSV
+2026-02-18 12:06:11,024 - INFO - Data successfully saved to products.csv
+2026-02-18 12:06:11,025 - INFO - [CSV] Data successfully saved to output.csv
+2026-02-18 12:06:11,026 - INFO - [LOAD] Saving to PostgreSQL
+2026-02-18 12:06:11,027 - ERROR - Database error: Could not parse SQLAlchemy URL from given URL string
+2026-02-18 12:06:11,028 - ERROR - [POSTGRESQL] Failed to save data to PostgreSQL
+2026-02-18 12:06:11,029 - INFO - [LOAD] Saving to Google Sheets
+2026-02-18 12:06:11,108 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-18 12:06:14,751 - WARNING - Encountered 403 Forbidden with reason "PERMISSION_DENIED"
+2026-02-18 12:06:14,752 - ERROR - Failed to upload to Google Sheets: <HttpError 403 when requesting https://sheets.googleapis.com/v4/spreadsheets/1jnZOc4bzpWzbL-MSA0aH9r07cZ7akpKXBzAl7M4qvWI/values/Sheet1%21A1?valueInputOption=RAW&alt=json returned "The caller does not have permission". Details: "The caller does not have permission">
+2026-02-18 12:06:14,755 - ERROR - [GSHEET] Failed to upload to Google Sheets
+2026-02-18 12:06:14,755 - INFO - [DONE] ETL Pipeline completed in 77.00 seconds
+2026-02-18 12:19:49,886 - INFO - [START] Starting ETL Pipeline
+2026-02-18 12:19:49,887 - INFO - [EXTRACT] Starting Extraction Phase
+2026-02-18 12:19:49,888 - INFO - Starting scraping process
+2026-02-18 12:19:51,348 - INFO - Page 1: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10552350>}
+2026-02-18 12:19:51,361 - INFO - Page 1 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:19:53,294 - INFO - Page 2: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB1063E560>}
+2026-02-18 12:19:53,319 - INFO - Page 2 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:19:55,382 - INFO - Page 3: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10692AE0>}
+2026-02-18 12:19:55,396 - INFO - Page 3 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:19:56,638 - INFO - Page 4: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10552400>}
+2026-02-18 12:19:56,652 - INFO - Page 4 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:19:58,007 - INFO - Page 5: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10733530>}
+2026-02-18 12:19:58,017 - INFO - Page 5 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:19:59,281 - INFO - Page 6: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB1078FAB0>}
+2026-02-18 12:19:59,292 - INFO - Page 6 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:00,579 - INFO - Page 7: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10552400>}
+2026-02-18 12:20:00,594 - INFO - Page 7 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:01,901 - INFO - Page 8: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB1078FAB0>}
+2026-02-18 12:20:01,920 - INFO - Page 8 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:03,206 - INFO - Page 9: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB108A8A90>}
+2026-02-18 12:20:03,215 - INFO - Page 9 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:04,499 - INFO - Page 10: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10692AE0>}
+2026-02-18 12:20:04,511 - INFO - Page 10 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:05,822 - INFO - Page 11: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10552400>}
+2026-02-18 12:20:05,840 - INFO - Page 11 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:07,178 - INFO - Page 12: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10692AE0>}
+2026-02-18 12:20:07,189 - INFO - Page 12 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:08,683 - INFO - Page 13: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10552400>}
+2026-02-18 12:20:08,699 - INFO - Page 13 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:09,900 - INFO - Page 14: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10692AE0>}
+2026-02-18 12:20:09,909 - INFO - Page 14 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:11,254 - INFO - Page 15: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10552400>}
+2026-02-18 12:20:11,265 - INFO - Page 15 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:12,573 - INFO - Page 16: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10692AE0>}
+2026-02-18 12:20:12,587 - INFO - Page 16 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:13,918 - INFO - Page 17: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10552400>}
+2026-02-18 12:20:13,926 - INFO - Page 17 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:15,391 - INFO - Page 18: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB1078FAB0>}
+2026-02-18 12:20:15,415 - INFO - Page 18 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:16,751 - INFO - Page 19: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10BCCB40>}
+2026-02-18 12:20:16,759 - INFO - Page 19 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:18,105 - INFO - Page 20: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10C257A0>}
+2026-02-18 12:20:18,116 - INFO - Page 20 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:19,727 - INFO - Page 21: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10C25640>}
+2026-02-18 12:20:19,736 - INFO - Page 21 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:20,937 - INFO - Page 22: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10BCCB40>}
+2026-02-18 12:20:20,948 - INFO - Page 22 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:22,110 - INFO - Page 23: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10C257A0>}
+2026-02-18 12:20:22,134 - INFO - Page 23 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:23,295 - INFO - Page 24: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10C25640>}
+2026-02-18 12:20:23,307 - INFO - Page 24 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:24,509 - INFO - Page 25: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10BCCB40>}
+2026-02-18 12:20:24,521 - INFO - Page 25 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:25,908 - INFO - Page 26: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10C257A0>}
+2026-02-18 12:20:25,925 - INFO - Page 26 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:27,241 - INFO - Page 27: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10C25640>}
+2026-02-18 12:20:27,255 - INFO - Page 27 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:28,511 - INFO - Page 28: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10BCCB40>}
+2026-02-18 12:20:28,522 - INFO - Page 28 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:29,913 - INFO - Page 29: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10FA5D20>}
+2026-02-18 12:20:29,928 - INFO - Page 29 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:31,231 - INFO - Page 30: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10BCCB40>}
+2026-02-18 12:20:31,249 - INFO - Page 30 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:32,513 - INFO - Page 31: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10FA5D20>}
+2026-02-18 12:20:32,523 - INFO - Page 31 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:33,897 - INFO - Page 32: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10BCCB40>}
+2026-02-18 12:20:33,914 - INFO - Page 32 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:35,153 - INFO - Page 33: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10FA5D20>}
+2026-02-18 12:20:35,162 - INFO - Page 33 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:36,446 - INFO - Page 34: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10BCCB40>}
+2026-02-18 12:20:36,456 - INFO - Page 34 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:37,720 - INFO - Page 35: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10FA5D20>}
+2026-02-18 12:20:37,735 - INFO - Page 35 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:39,155 - INFO - Page 36: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10BCCB40>}
+2026-02-18 12:20:39,168 - INFO - Page 36 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:40,504 - INFO - Page 37: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10FA5D20>}
+2026-02-18 12:20:40,514 - INFO - Page 37 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:41,747 - INFO - Page 38: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10BCCB40>}
+2026-02-18 12:20:41,763 - INFO - Page 38 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:43,072 - INFO - Page 39: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10FA5D20>}
+2026-02-18 12:20:43,082 - INFO - Page 39 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:44,211 - INFO - Page 40: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10BCCB40>}
+2026-02-18 12:20:44,223 - INFO - Page 40 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:45,853 - INFO - Page 41: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10FA5D20>}
+2026-02-18 12:20:45,862 - INFO - Page 41 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:47,021 - INFO - Page 42: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10BCCB40>}
+2026-02-18 12:20:47,031 - INFO - Page 42 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:48,162 - INFO - Page 43: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10FA5D20>}
+2026-02-18 12:20:48,170 - INFO - Page 43 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:49,305 - INFO - Page 44: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10BCCB40>}
+2026-02-18 12:20:49,317 - INFO - Page 44 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:50,455 - INFO - Page 45: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10FA5D20>}
+2026-02-18 12:20:50,464 - INFO - Page 45 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:51,647 - INFO - Page 46: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10BCCB40>}
+2026-02-18 12:20:51,656 - INFO - Page 46 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:52,807 - INFO - Page 47: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10FA5D20>}
+2026-02-18 12:20:52,817 - INFO - Page 47 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:54,023 - INFO - Page 48: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10BCCB40>}
+2026-02-18 12:20:54,033 - INFO - Page 48 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:55,208 - INFO - Page 49: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10FA5D20>}
+2026-02-18 12:20:55,218 - INFO - Page 49 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:56,499 - INFO - Page 50: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001CB10BCCB40>}
+2026-02-18 12:20:56,507 - INFO - Page 50 berhasil: 40 produk valid dari 42 item
+2026-02-18 12:20:56,508 - INFO - Scraping selesai. Total produk: 2000
+2026-02-18 12:20:56,550 - INFO - [EXTRACT] Successfully extracted 2000 items
+2026-02-18 12:20:56,550 - INFO - [TRANSFORM] Starting Transformation Phase
+2026-02-18 12:20:56,584 - INFO - [TRANSFORM] Transformed 867 records
+2026-02-18 12:20:56,584 - INFO - [LOAD] Saving to CSV
+2026-02-18 12:20:56,603 - INFO - Data successfully saved to products.csv
+2026-02-18 12:20:56,604 - INFO - [CSV] Data successfully saved to output.csv
+2026-02-18 12:20:56,605 - INFO - [LOAD] Saving to PostgreSQL
+2026-02-18 12:20:56,606 - ERROR - Database error: Could not parse SQLAlchemy URL from given URL string
+2026-02-18 12:20:56,607 - ERROR - [POSTGRESQL] Failed to save data to PostgreSQL
+2026-02-18 12:20:56,607 - INFO - [LOAD] Saving to Google Sheets
+2026-02-18 12:20:56,668 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-18 12:21:00,446 - INFO - Data successfully uploaded to Google Sheets
+2026-02-18 12:21:00,447 - INFO - [GSHEET] Data uploaded to Google Sheets successfully
+2026-02-18 12:21:00,448 - INFO - [DONE] ETL Pipeline completed in 70.56 seconds
+2026-02-18 13:27:25,764 - INFO - [START] Starting ETL Pipeline
+2026-02-18 13:27:25,765 - INFO - [EXTRACT] Starting Extraction Phase
+2026-02-18 13:27:25,766 - INFO - Starting scraping process
+2026-02-18 13:27:28,155 - INFO - Page 1: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC4CA350>}
+2026-02-18 13:27:28,168 - INFO - Page 1 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:27:30,297 - INFO - Page 2: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC5BE560>}
+2026-02-18 13:27:30,309 - INFO - Page 2 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:27:32,337 - INFO - Page 3: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC612AE0>}
+2026-02-18 13:27:32,360 - INFO - Page 3 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:27:34,323 - INFO - Page 4: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC4CA400>}
+2026-02-18 13:27:34,349 - INFO - Page 4 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:27:36,430 - INFO - Page 5: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC6AF530>}
+2026-02-18 13:27:36,451 - INFO - Page 5 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:27:39,047 - INFO - Page 6: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC70BAB0>}
+2026-02-18 13:27:39,062 - INFO - Page 6 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:27:41,244 - INFO - Page 7: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC4CA400>}
+2026-02-18 13:27:41,257 - INFO - Page 7 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:27:43,580 - INFO - Page 8: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC70BAB0>}
+2026-02-18 13:27:43,608 - INFO - Page 8 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:27:45,847 - INFO - Page 9: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC828A90>}
+2026-02-18 13:27:45,864 - INFO - Page 9 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:27:47,854 - INFO - Page 10: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC612AE0>}
+2026-02-18 13:27:47,871 - INFO - Page 10 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:27:49,710 - INFO - Page 11: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC4CA400>}
+2026-02-18 13:27:49,727 - INFO - Page 11 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:27:51,653 - INFO - Page 12: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC612AE0>}
+2026-02-18 13:27:51,672 - INFO - Page 12 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:27:53,618 - INFO - Page 13: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC4CA400>}
+2026-02-18 13:27:53,640 - INFO - Page 13 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:27:55,571 - INFO - Page 14: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC612AE0>}
+2026-02-18 13:27:55,583 - INFO - Page 14 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:27:57,832 - INFO - Page 15: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC4CA400>}
+2026-02-18 13:27:57,847 - INFO - Page 15 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:27:59,554 - INFO - Page 16: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC612AE0>}
+2026-02-18 13:27:59,565 - INFO - Page 16 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:01,470 - INFO - Page 17: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC4CA400>}
+2026-02-18 13:28:01,492 - INFO - Page 17 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:03,250 - INFO - Page 18: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FC70BAB0>}
+2026-02-18 13:28:03,260 - INFO - Page 18 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:05,059 - INFO - Page 19: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCB4CB40>}
+2026-02-18 13:28:05,080 - INFO - Page 19 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:07,235 - INFO - Page 20: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCBA57A0>}
+2026-02-18 13:28:07,256 - INFO - Page 20 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:09,655 - INFO - Page 21: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCBA5640>}
+2026-02-18 13:28:09,710 - INFO - Page 21 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:11,996 - INFO - Page 22: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCB4CB40>}
+2026-02-18 13:28:12,026 - INFO - Page 22 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:14,110 - INFO - Page 23: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCBA57A0>}
+2026-02-18 13:28:14,131 - INFO - Page 23 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:15,986 - INFO - Page 24: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCBA5640>}
+2026-02-18 13:28:16,007 - INFO - Page 24 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:19,311 - INFO - Page 25: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCB4CB40>}
+2026-02-18 13:28:19,335 - INFO - Page 25 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:21,403 - INFO - Page 26: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCBA57A0>}
+2026-02-18 13:28:21,425 - INFO - Page 26 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:23,674 - INFO - Page 27: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCBA5640>}
+2026-02-18 13:28:23,691 - INFO - Page 27 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:25,500 - INFO - Page 28: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCB4CB40>}
+2026-02-18 13:28:25,519 - INFO - Page 28 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:27,256 - INFO - Page 29: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCF25D20>}
+2026-02-18 13:28:27,274 - INFO - Page 29 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:29,295 - INFO - Page 30: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCB4CB40>}
+2026-02-18 13:28:29,321 - INFO - Page 30 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:31,225 - INFO - Page 31: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCF25D20>}
+2026-02-18 13:28:31,289 - INFO - Page 31 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:33,287 - INFO - Page 32: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCB4CB40>}
+2026-02-18 13:28:33,314 - INFO - Page 32 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:35,071 - INFO - Page 33: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCF25D20>}
+2026-02-18 13:28:35,088 - INFO - Page 33 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:37,265 - INFO - Page 34: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCB4CB40>}
+2026-02-18 13:28:37,281 - INFO - Page 34 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:39,093 - INFO - Page 35: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCF25D20>}
+2026-02-18 13:28:39,107 - INFO - Page 35 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:41,267 - INFO - Page 36: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCB4CB40>}
+2026-02-18 13:28:41,285 - INFO - Page 36 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:43,304 - INFO - Page 37: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCF25D20>}
+2026-02-18 13:28:43,329 - INFO - Page 37 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:45,206 - INFO - Page 38: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCB4CB40>}
+2026-02-18 13:28:45,240 - INFO - Page 38 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:47,369 - INFO - Page 39: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCF25D20>}
+2026-02-18 13:28:47,386 - INFO - Page 39 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:49,400 - INFO - Page 40: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCB4CB40>}
+2026-02-18 13:28:49,421 - INFO - Page 40 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:51,441 - INFO - Page 41: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCF25D20>}
+2026-02-18 13:28:51,464 - INFO - Page 41 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:53,387 - INFO - Page 42: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCB4CB40>}
+2026-02-18 13:28:53,397 - INFO - Page 42 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:55,010 - INFO - Page 43: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCF25D20>}
+2026-02-18 13:28:55,023 - INFO - Page 43 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:56,710 - INFO - Page 44: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCB4CB40>}
+2026-02-18 13:28:56,726 - INFO - Page 44 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:28:58,529 - INFO - Page 45: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCF25D20>}
+2026-02-18 13:28:58,544 - INFO - Page 45 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:29:00,269 - INFO - Page 46: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCB4CB40>}
+2026-02-18 13:29:00,279 - INFO - Page 46 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:29:01,959 - INFO - Page 47: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCF25D20>}
+2026-02-18 13:29:01,973 - INFO - Page 47 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:29:03,741 - INFO - Page 48: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCB4CB40>}
+2026-02-18 13:29:03,752 - INFO - Page 48 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:29:05,289 - INFO - Page 49: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCF25D20>}
+2026-02-18 13:29:05,311 - INFO - Page 49 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:29:07,049 - INFO - Page 50: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000215FCB4CB40>}
+2026-02-18 13:29:07,059 - INFO - Page 50 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:29:07,060 - INFO - Scraping selesai. Total produk: 2000
+2026-02-18 13:29:07,109 - INFO - [EXTRACT] Successfully extracted 2000 items
+2026-02-18 13:29:07,110 - INFO - [TRANSFORM] Starting Transformation Phase
+2026-02-18 13:29:07,228 - INFO - [TRANSFORM] Transformed 867 records
+2026-02-18 13:29:07,228 - INFO - [LOAD] Saving to CSV
+2026-02-18 13:29:07,260 - INFO - Data successfully saved to products.csv
+2026-02-18 13:29:07,261 - INFO - [CSV] Data successfully saved to output.csv
+2026-02-18 13:29:07,262 - INFO - [LOAD] Saving to PostgreSQL
+2026-02-18 13:29:07,868 - ERROR - Database error: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "developer"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-02-18 13:29:07,870 - ERROR - [POSTGRESQL] Failed to save data to PostgreSQL
+2026-02-18 13:29:07,871 - INFO - [LOAD] Saving to Google Sheets
+2026-02-18 13:29:07,982 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-18 13:29:11,946 - INFO - Data successfully uploaded to Google Sheets
+2026-02-18 13:29:11,947 - INFO - [GSHEET] Data uploaded to Google Sheets successfully
+2026-02-18 13:29:11,949 - INFO - [DONE] ETL Pipeline completed in 106.18 seconds
+2026-02-18 13:36:38,439 - INFO - [START] Starting ETL Pipeline
+2026-02-18 13:36:38,440 - INFO - [EXTRACT] Starting Extraction Phase
+2026-02-18 13:36:38,440 - INFO - Starting scraping process
+2026-02-18 13:36:41,025 - INFO - Page 1: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B34469E350>}
+2026-02-18 13:36:41,057 - INFO - Page 1 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:36:42,777 - INFO - Page 2: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344792560>}
+2026-02-18 13:36:42,790 - INFO - Page 2 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:36:44,116 - INFO - Page 3: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3447E2AE0>}
+2026-02-18 13:36:44,125 - INFO - Page 3 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:36:45,714 - INFO - Page 4: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B34469E400>}
+2026-02-18 13:36:45,725 - INFO - Page 4 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:36:47,353 - INFO - Page 5: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B34487F530>}
+2026-02-18 13:36:47,365 - INFO - Page 5 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:36:48,699 - INFO - Page 6: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3448DBAB0>}
+2026-02-18 13:36:48,709 - INFO - Page 6 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:36:50,065 - INFO - Page 7: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B34469E400>}
+2026-02-18 13:36:50,081 - INFO - Page 7 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:36:51,332 - INFO - Page 8: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3448DBAB0>}
+2026-02-18 13:36:51,341 - INFO - Page 8 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:36:52,546 - INFO - Page 9: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3449F8A90>}
+2026-02-18 13:36:52,556 - INFO - Page 9 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:36:53,940 - INFO - Page 10: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3447E2AE0>}
+2026-02-18 13:36:53,952 - INFO - Page 10 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:36:55,320 - INFO - Page 11: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B34469E400>}
+2026-02-18 13:36:55,339 - INFO - Page 11 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:36:56,631 - INFO - Page 12: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3447E2AE0>}
+2026-02-18 13:36:56,642 - INFO - Page 12 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:36:57,963 - INFO - Page 13: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B34469E400>}
+2026-02-18 13:36:57,980 - INFO - Page 13 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:36:59,645 - INFO - Page 14: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3447E2AE0>}
+2026-02-18 13:36:59,653 - INFO - Page 14 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:00,916 - INFO - Page 15: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B34469E400>}
+2026-02-18 13:37:00,925 - INFO - Page 15 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:02,322 - INFO - Page 16: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3447E2AE0>}
+2026-02-18 13:37:02,351 - INFO - Page 16 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:04,085 - INFO - Page 17: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B34469E400>}
+2026-02-18 13:37:04,096 - INFO - Page 17 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:05,574 - INFO - Page 18: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3448DBAB0>}
+2026-02-18 13:37:05,589 - INFO - Page 18 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:07,099 - INFO - Page 19: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D18B40>}
+2026-02-18 13:37:07,132 - INFO - Page 19 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:08,401 - INFO - Page 20: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D757A0>}
+2026-02-18 13:37:08,412 - INFO - Page 20 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:09,791 - INFO - Page 21: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D75640>}
+2026-02-18 13:37:09,801 - INFO - Page 21 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:11,467 - INFO - Page 22: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D18B40>}
+2026-02-18 13:37:11,498 - INFO - Page 22 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:13,352 - INFO - Page 23: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D757A0>}
+2026-02-18 13:37:13,383 - INFO - Page 23 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:14,803 - INFO - Page 24: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D75640>}
+2026-02-18 13:37:14,822 - INFO - Page 24 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:16,374 - INFO - Page 25: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D18B40>}
+2026-02-18 13:37:16,413 - INFO - Page 25 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:17,865 - INFO - Page 26: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D757A0>}
+2026-02-18 13:37:17,880 - INFO - Page 26 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:19,245 - INFO - Page 27: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D75640>}
+2026-02-18 13:37:19,254 - INFO - Page 27 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:20,456 - INFO - Page 28: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D18B40>}
+2026-02-18 13:37:20,482 - INFO - Page 28 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:21,766 - INFO - Page 29: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3450F5D20>}
+2026-02-18 13:37:21,782 - INFO - Page 29 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:23,127 - INFO - Page 30: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D18B40>}
+2026-02-18 13:37:23,154 - INFO - Page 30 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:24,453 - INFO - Page 31: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3450F5D20>}
+2026-02-18 13:37:24,482 - INFO - Page 31 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:26,222 - INFO - Page 32: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D18B40>}
+2026-02-18 13:37:26,231 - INFO - Page 32 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:27,432 - INFO - Page 33: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3450F5D20>}
+2026-02-18 13:37:27,445 - INFO - Page 33 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:29,317 - INFO - Page 34: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D18B40>}
+2026-02-18 13:37:29,355 - INFO - Page 34 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:31,566 - INFO - Page 35: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3450F5D20>}
+2026-02-18 13:37:31,601 - INFO - Page 35 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:33,211 - INFO - Page 36: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D18B40>}
+2026-02-18 13:37:33,220 - INFO - Page 36 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:35,104 - INFO - Page 37: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3450F5D20>}
+2026-02-18 13:37:35,123 - INFO - Page 37 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:36,574 - INFO - Page 38: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D18B40>}
+2026-02-18 13:37:36,585 - INFO - Page 38 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:37,870 - INFO - Page 39: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3450F5D20>}
+2026-02-18 13:37:37,883 - INFO - Page 39 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:39,179 - INFO - Page 40: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D18B40>}
+2026-02-18 13:37:39,190 - INFO - Page 40 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:40,486 - INFO - Page 41: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3450F5D20>}
+2026-02-18 13:37:40,496 - INFO - Page 41 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:41,681 - INFO - Page 42: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D18B40>}
+2026-02-18 13:37:41,692 - INFO - Page 42 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:42,856 - INFO - Page 43: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3450F5D20>}
+2026-02-18 13:37:42,866 - INFO - Page 43 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:44,087 - INFO - Page 44: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D18B40>}
+2026-02-18 13:37:44,097 - INFO - Page 44 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:45,245 - INFO - Page 45: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3450F5D20>}
+2026-02-18 13:37:45,254 - INFO - Page 45 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:46,445 - INFO - Page 46: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D18B40>}
+2026-02-18 13:37:46,454 - INFO - Page 46 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:47,707 - INFO - Page 47: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3450F5D20>}
+2026-02-18 13:37:47,717 - INFO - Page 47 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:48,912 - INFO - Page 48: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D18B40>}
+2026-02-18 13:37:48,923 - INFO - Page 48 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:50,086 - INFO - Page 49: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B3450F5D20>}
+2026-02-18 13:37:50,095 - INFO - Page 49 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:51,276 - INFO - Page 50: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001B344D18B40>}
+2026-02-18 13:37:51,286 - INFO - Page 50 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:37:51,287 - INFO - Scraping selesai. Total produk: 2000
+2026-02-18 13:37:51,331 - INFO - [EXTRACT] Successfully extracted 2000 items
+2026-02-18 13:37:51,332 - INFO - [TRANSFORM] Starting Transformation Phase
+2026-02-18 13:37:51,366 - INFO - [TRANSFORM] Transformed 867 records
+2026-02-18 13:37:51,367 - INFO - [LOAD] Saving to CSV
+2026-02-18 13:37:51,391 - INFO - Data successfully saved to products.csv
+2026-02-18 13:37:51,394 - INFO - [CSV] Data successfully saved to output.csv
+2026-02-18 13:37:51,396 - INFO - [LOAD] Saving to PostgreSQL
+2026-02-18 13:37:51,631 - ERROR - Database error: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "etl_user"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-02-18 13:37:51,634 - ERROR - [POSTGRESQL] Failed to save data to PostgreSQL
+2026-02-18 13:37:51,635 - INFO - [LOAD] Saving to Google Sheets
+2026-02-18 13:37:51,716 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-18 13:37:55,560 - INFO - Data successfully uploaded to Google Sheets
+2026-02-18 13:37:55,562 - INFO - [GSHEET] Data uploaded to Google Sheets successfully
+2026-02-18 13:37:55,563 - INFO - [DONE] ETL Pipeline completed in 77.12 seconds
+2026-02-18 13:39:18,273 - INFO - [START] Starting ETL Pipeline
+2026-02-18 13:39:18,274 - INFO - [EXTRACT] Starting Extraction Phase
+2026-02-18 13:39:18,275 - INFO - Starting scraping process
+2026-02-18 13:39:19,731 - INFO - Page 1: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152670C6350>}
+2026-02-18 13:39:19,742 - INFO - Page 1 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:21,595 - INFO - Page 2: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001526712E560>}
+2026-02-18 13:39:21,610 - INFO - Page 2 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:23,235 - INFO - Page 3: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267182AE0>}
+2026-02-18 13:39:23,256 - INFO - Page 3 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:24,551 - INFO - Page 4: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152670C6400>}
+2026-02-18 13:39:24,563 - INFO - Page 4 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:25,925 - INFO - Page 5: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001526721F530>}
+2026-02-18 13:39:25,935 - INFO - Page 5 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:27,201 - INFO - Page 6: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001526727BAB0>}
+2026-02-18 13:39:27,212 - INFO - Page 6 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:28,537 - INFO - Page 7: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152670C6400>}
+2026-02-18 13:39:28,546 - INFO - Page 7 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:29,903 - INFO - Page 8: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001526727BAB0>}
+2026-02-18 13:39:29,913 - INFO - Page 8 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:31,185 - INFO - Page 9: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267394A90>}
+2026-02-18 13:39:31,200 - INFO - Page 9 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:32,495 - INFO - Page 10: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267182AE0>}
+2026-02-18 13:39:32,505 - INFO - Page 10 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:33,739 - INFO - Page 11: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152670C6400>}
+2026-02-18 13:39:33,754 - INFO - Page 11 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:36,037 - INFO - Page 12: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267182AE0>}
+2026-02-18 13:39:36,048 - INFO - Page 12 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:37,546 - INFO - Page 13: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152670C6400>}
+2026-02-18 13:39:37,561 - INFO - Page 13 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:38,932 - INFO - Page 14: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267182AE0>}
+2026-02-18 13:39:38,943 - INFO - Page 14 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:41,349 - INFO - Page 15: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152670C6400>}
+2026-02-18 13:39:41,362 - INFO - Page 15 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:42,699 - INFO - Page 16: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267182AE0>}
+2026-02-18 13:39:42,711 - INFO - Page 16 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:44,073 - INFO - Page 17: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152670C6400>}
+2026-02-18 13:39:44,082 - INFO - Page 17 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:45,263 - INFO - Page 18: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001526727BAB0>}
+2026-02-18 13:39:45,275 - INFO - Page 18 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:46,625 - INFO - Page 19: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152676B8B40>}
+2026-02-18 13:39:46,643 - INFO - Page 19 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:47,843 - INFO - Page 20: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152677117A0>}
+2026-02-18 13:39:47,853 - INFO - Page 20 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:49,168 - INFO - Page 21: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267711640>}
+2026-02-18 13:39:49,177 - INFO - Page 21 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:50,415 - INFO - Page 22: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152676B8B40>}
+2026-02-18 13:39:50,426 - INFO - Page 22 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:51,634 - INFO - Page 23: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152677117A0>}
+2026-02-18 13:39:51,646 - INFO - Page 23 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:52,984 - INFO - Page 24: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267711640>}
+2026-02-18 13:39:52,997 - INFO - Page 24 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:54,403 - INFO - Page 25: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152676B8B40>}
+2026-02-18 13:39:54,420 - INFO - Page 25 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:55,946 - INFO - Page 26: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152677117A0>}
+2026-02-18 13:39:55,956 - INFO - Page 26 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:57,308 - INFO - Page 27: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267711640>}
+2026-02-18 13:39:57,317 - INFO - Page 27 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:58,593 - INFO - Page 28: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152676B8B40>}
+2026-02-18 13:39:58,603 - INFO - Page 28 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:39:59,822 - INFO - Page 29: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267A91D20>}
+2026-02-18 13:39:59,832 - INFO - Page 29 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:01,069 - INFO - Page 30: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152676B8B40>}
+2026-02-18 13:40:01,078 - INFO - Page 30 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:02,391 - INFO - Page 31: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267A91D20>}
+2026-02-18 13:40:02,403 - INFO - Page 31 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:03,579 - INFO - Page 32: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152676B8B40>}
+2026-02-18 13:40:03,590 - INFO - Page 32 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:04,798 - INFO - Page 33: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267A91D20>}
+2026-02-18 13:40:04,808 - INFO - Page 33 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:06,078 - INFO - Page 34: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152676B8B40>}
+2026-02-18 13:40:06,088 - INFO - Page 34 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:07,245 - INFO - Page 35: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267A91D20>}
+2026-02-18 13:40:07,261 - INFO - Page 35 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:08,604 - INFO - Page 36: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152676B8B40>}
+2026-02-18 13:40:08,614 - INFO - Page 36 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:09,803 - INFO - Page 37: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267A91D20>}
+2026-02-18 13:40:09,812 - INFO - Page 37 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:11,062 - INFO - Page 38: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152676B8B40>}
+2026-02-18 13:40:11,072 - INFO - Page 38 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:12,438 - INFO - Page 39: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267A91D20>}
+2026-02-18 13:40:12,448 - INFO - Page 39 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:13,639 - INFO - Page 40: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152676B8B40>}
+2026-02-18 13:40:13,648 - INFO - Page 40 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:14,782 - INFO - Page 41: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267A91D20>}
+2026-02-18 13:40:14,791 - INFO - Page 41 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:15,970 - INFO - Page 42: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152676B8B40>}
+2026-02-18 13:40:15,980 - INFO - Page 42 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:17,261 - INFO - Page 43: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267A91D20>}
+2026-02-18 13:40:17,278 - INFO - Page 43 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:18,685 - INFO - Page 44: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152676B8B40>}
+2026-02-18 13:40:18,694 - INFO - Page 44 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:19,964 - INFO - Page 45: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267A91D20>}
+2026-02-18 13:40:19,974 - INFO - Page 45 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:21,192 - INFO - Page 46: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152676B8B40>}
+2026-02-18 13:40:21,202 - INFO - Page 46 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:22,497 - INFO - Page 47: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267A91D20>}
+2026-02-18 13:40:22,506 - INFO - Page 47 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:23,709 - INFO - Page 48: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152676B8B40>}
+2026-02-18 13:40:23,718 - INFO - Page 48 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:25,004 - INFO - Page 49: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x0000015267A91D20>}
+2026-02-18 13:40:25,013 - INFO - Page 49 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:26,386 - INFO - Page 50: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x00000152676B8B40>}
+2026-02-18 13:40:26,407 - INFO - Page 50 berhasil: 40 produk valid dari 42 item
+2026-02-18 13:40:26,407 - INFO - Scraping selesai. Total produk: 2000
+2026-02-18 13:40:26,492 - INFO - [EXTRACT] Successfully extracted 2000 items
+2026-02-18 13:40:26,493 - INFO - [TRANSFORM] Starting Transformation Phase
+2026-02-18 13:40:26,557 - INFO - [TRANSFORM] Transformed 867 records
+2026-02-18 13:40:26,558 - INFO - [LOAD] Saving to CSV
+2026-02-18 13:40:26,578 - INFO - Data successfully saved to products.csv
+2026-02-18 13:40:26,579 - INFO - [CSV] Data successfully saved to output.csv
+2026-02-18 13:40:26,580 - INFO - [LOAD] Saving to PostgreSQL
+2026-02-18 13:40:26,958 - INFO - Data successfully saved to PostgreSQL table etl_data
+2026-02-18 13:40:26,958 - INFO - [POSTGRESQL] Data successfully saved to PostgreSQL
+2026-02-18 13:40:26,959 - INFO - [LOAD] Saving to Google Sheets
+2026-02-18 13:40:27,026 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-18 13:40:30,852 - INFO - Data successfully uploaded to Google Sheets
+2026-02-18 13:40:30,854 - INFO - [GSHEET] Data uploaded to Google Sheets successfully
+2026-02-18 13:40:30,855 - INFO - [DONE] ETL Pipeline completed in 72.58 seconds
+2026-02-18 15:30:44,942 - INFO - [START] Starting ETL Pipeline
+2026-02-18 15:30:44,942 - INFO - [EXTRACT] Starting Extraction Phase
+2026-02-18 15:30:44,943 - INFO - Starting scraping process
+2026-02-18 15:30:45,577 - INFO - Page 1: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001EE76CFB3D0>}
+2026-02-18 15:30:45,585 - INFO - Page 1 berhasil: 40 produk valid dari 42 item
+2026-02-18 15:30:45,834 - INFO - Page 2: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001EE76E57690>}
+2026-02-18 15:30:45,846 - INFO - Page 2 berhasil: 40 produk valid dari 42 item
+2026-02-18 15:30:46,081 - INFO - Page 3: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001EE76EA3B60>}
+2026-02-18 15:30:46,089 - INFO - Page 3 berhasil: 40 produk valid dari 42 item
+2026-02-18 15:30:46,358 - INFO - Page 4: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001EE76CFB480>}
+2026-02-18 15:30:46,372 - INFO - Page 4 berhasil: 40 produk valid dari 42 item
+2026-02-18 15:30:46,664 - INFO - Page 5: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001EE76F5C670>}
+2026-02-18 15:30:46,672 - INFO - Page 5 berhasil: 40 produk valid dari 42 item
+2026-02-18 15:30:47,027 - INFO - Page 6: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001EE76FB0BF0>}
+2026-02-18 15:30:47,036 - INFO - Page 6 berhasil: 40 produk valid dari 42 item
+2026-02-18 15:30:47,272 - INFO - Page 7: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001EE76CFB480>}
+2026-02-18 15:30:47,282 - INFO - Page 7 berhasil: 40 produk valid dari 42 item
+2026-02-18 15:30:47,504 - INFO - Page 8: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001EE76FB0BF0>}
+2026-02-18 15:30:47,514 - INFO - Page 8 berhasil: 40 produk valid dari 42 item
+2026-02-18 15:30:47,739 - INFO - Page 9: Found 42 items using selector 'div' with attrs {'class': <function extract_data.<locals>.<lambda> at 0x000001EE770B5B10>}
+2026-02-18 15:30:47,749 - INFO - Page 9 berhasil: 40 produk valid dari 42 item
